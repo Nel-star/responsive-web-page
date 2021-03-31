@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewpoint" content=" width=device-width, initial-scale=1">
+    <title>Level two assignment</title>
+    <link rel="stylesheet" href="intro.css"> <!--add stylehere-->
+   </head>
+   <body>
+    <header>
+      <figure id="logo">
+        <img src="" alt="">
+        <figcaption>Fylo</figcaption>
+       </figure>
+       <nav id="navbar">
+        <a href="#"> Features </a>
+        <a href="#"> Team </a>
+        <a href="#"> Sign in</a>
+       </nav>
+     </header>
+     <div class="files"> 
+      <img src="" alt="filestorage">
+      <h5>All your files in one secure location accessible anywhere.</h5>
+      <p> Fylo stores all your most important files in one secure location.Access them wherever you need, share and collabrate with friends family and co-workers</p>
+      <button type="button" > Get started </button>
+    </div>
+    <div class="about">
+      <figure id="access">
+        <img src="" alt="" >
+        <h5>
+  
